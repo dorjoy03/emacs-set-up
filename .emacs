@@ -8,7 +8,7 @@
  '(custom-enabled-themes '(wombat))
  '(make-backup-files nil)
  '(package-selected-packages
-   '(lsp-mode yasnippet lsp-treemacs helm-lsp projectile hydra flycheck company avy which-key helm-xref dap-mode))
+   '(magit lsp-mode yasnippet lsp-treemacs helm-lsp projectile hydra flycheck company avy which-key helm-xref dap-mode))
  '(scroll-bar-mode nil))
 
 (setq c-basic-offset 4)
